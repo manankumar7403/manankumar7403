@@ -64,7 +64,7 @@
 
 ### 🏆 Achievements & Stats
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manankumar7403" alt="manankumar7403" width="80%"/></a>
+  <img src="metrics.plugin.achievements.compact.svg" alt="GitHub Achievements" width="70%"/>
 </p>
 
 ---
