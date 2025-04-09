@@ -55,6 +55,20 @@
 
 ---
 
+#### 📊 LeetCode Stats & Badges
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/manankumar14?ext=contest" alt="LeetCode Stats" width="48%"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/manankumar14/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="50 Days 2023" height="200" width="200"/></a>
+  <a href="https://leetcode.com/manankumar14/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days 2024" height="200" width="200"/></a>
+  <a href="https://leetcode.com/manankumar14/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="SQL 50" height="200" width="200"/></a>
+  <a href="https://leetcode.com/manankumar14/" target="_blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:720/1*YJty0oZ9A55kiUZH-yu-4A.gif" alt="Introduction to Pandas" height="200" width="200"/></a>
+</p>
+
+---
+
 #### 📈 3D Contribution Graph
 <p align="center">
   <a href="https://github.com/manankumar7403"><img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="600"></a>
