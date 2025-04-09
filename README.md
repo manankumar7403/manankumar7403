@@ -21,7 +21,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.brandfetch.io/idVoqFQ-78/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="aws" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -52,42 +52,41 @@
 
 ### 📊 My GitHub Metrics
 
-#### 📌 General Stats
-<p align="center">
-  <img src="github-metrics-base.svg" alt="Base Metrics" width="70%">
-</p>
+<table align="center">
+  <tr>
+    <td><strong>📌 General Stats</strong></td>
+    <td><strong>📌 Top Languages</strong></td>
+  </tr>
+  <tr>
+    <td><img src="github-metrics-base.svg" alt="Base Metrics" width="350"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manankumar7403" alt="Top Langs" width="350"></td>
+  </tr>
+</table>
 
-#### 📊 Languages
-<p align="center">
-  <img src="github-metrics-languages.svg" alt="Language Metrics" width="70%">
-</p>
+<table align="center">
+  <tr>
+    <td><strong>📈 Recent Activity</strong></td>
+    <td><strong>📬 Issues & PRs</strong></td>
+  </tr>
+  <tr>
+    <td><img src="github-metrics-activity.svg" alt="Activity Metrics" width="350"></td>
+    <td><img src="github-metrics-followup.svg" alt="Follow-up Metrics" width="350"></td>
+  </tr>
+</table>
+
+---
 
 #### 📈 3D Contribution Graph
 <p align="center">
-  <a href="https://github.com/manankumar7403"><img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="70%"></a>
+  <a href="https://github.com/manankumar7403"><img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="600"></a>
 </p>
-
-#### 📈 Recent Activity
-<p align="center">
-  <img src="github-metrics-activity.svg" alt="Activity Metrics" width="70%">
-</p>
-
-#### 📬 Issues & PRs
-<p align="center">
-  <img src="github-metrics-followup.svg" alt="Follow-up Metrics" width="70%">
-</p>
-
-<!-- Uncomment when People metrics works
-#### 👥 People
-<p align="center">
-  <img src="github-metrics-people.svg" alt="People Metrics" width="70%">
-</p>
--->
 
 ---
 
 ### 🏆 Achievements & Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manankumar7403" alt="manankumar7403" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manankumar7403" alt="manankumar7403" width="80%"/></a>
+</p>
 
 ---
 
