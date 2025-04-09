@@ -1,84 +1,110 @@
 name: Metrics
 on:
   # Schedule updates (once a day)
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
   # Allow manual workflow runs
   workflow_dispatch:
   # Run on pushes to main branch (for immediate updates)
-  push: {branches: ["main"]}
+  push:
+    branches:
+      - main
 
 jobs:
   # Base Metrics - General GitHub stats and activity
   base:
-    permissions: write-all
+    permissions:
+      contents: write # Replaced write-all with specific permission
     name: Base metrics
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: manankumar7403 # Added to target the correct user
           filename: github-metrics-base.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          use_prebuilt_image: yes
+          use_prebuilt_image: no # Customize rendering
           optimize: svg
-          config_display: large
+          config_display: medium # Reduced from large
+          config_font_size: 12 # Added to reduce font size
           config_padding: 10%
+          config_output: svg, width=1000, height=1200 # Constrained dimensions
+          output_action: commit
+          committer_name: manankumar7403
+          committer_email: manantemp1404@gmail.com
+          commit_message: "Update github-metrics-base.svg"
 
   # Activity - Recent GitHub activity visualization
   activity:
-    permissions: write-all
+    permissions:
+      contents: write
     name: Activity metrics
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: manankumar7403
           filename: github-metrics-activity.svg
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 3 # Reduced from 5
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_visibility: public
           plugin_activity_timestamps: yes
           config_timezone: Asia/Kolkata
-          use_prebuilt_image: yes
+          config_font_size: 12 # Added to reduce font size
+          config_output: svg, width=800, height=500 # Constrained dimensions
           optimize: svg
+          output_action: commit
+          committer_name: manankumar7403
+          committer_email: manantemp1404@gmail.com
+          commit_message: "Update github-metrics-activity.svg"
 
-  # Isocalendar - Contribution calendar in isometric view
+  # Isocalendar - Contribution calendar in isometric view (to be replaced)
   isocalendar:
-    permissions: write-all
+    permissions:
+      contents: write
     name: Isocalendar metrics
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: manankumar7403
           filename: github-metrics-isocalendar.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          use_prebuilt_image: yes
+          config_font_size: 12 # Added to reduce font size
+          config_output: svg, width=800, height=400 # Constrained dimensions
           optimize: svg
+          output_action: commit
+          committer_name: manankumar7403
+          committer_email: manantemp1404@gmail.com
+          commit_message: "Update github-metrics-isocalendar.svg"
 
   # Languages - Programming languages usage stats
   languages:
-    name: Language metrics
-    runs-on: ubuntu-latest
     permissions:
       contents: write
+    name: Language metrics
+    runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: manankumar7403
           filename: github-metrics-languages.svg
           base: ""
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming, prose, data
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 5 # Reduced from 8
           plugin_languages_recent_categories: markup, programming, prose, data
           plugin_languages_recent_days: 30
           plugin_languages_recent_load: 300
@@ -86,40 +112,62 @@ jobs:
           plugin_languages_threshold: 0%
           repositories_skipped: ""
           commits_authoring: manantemp1404@gmail.com, manankumar7403, Manan Kumar
-          
+          config_font_size: 12 # Added to reduce font size
+          config_output: svg, width=800, height=400 # Constrained dimensions
+          optimize: svg
+          output_action: commit
+          committer_name: manankumar7403
+          committer_email: manantemp1404@gmail.com
+          commit_message: "Update github-metrics-languages.svg"
+
   # Follow-up - Issues and PRs metrics
   followup:
-    permissions: write-all
+    permissions:
+      contents: write
     name: Follow-up metrics
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: manankumar7403
           filename: github-metrics-followup.svg
           base: ""
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          use_prebuilt_image: yes
+          config_font_size: 12 # Added to reduce font size
+          config_output: svg, width=800, height=400 # Constrained dimensions
           optimize: svg
+          output_action: commit
+          committer_name: manankumar7403
+          committer_email: manantemp1404@gmail.com
+          commit_message: "Update github-metrics-followup.svg"
 
   # People - Followers and following visualization
   people:
-    name: People metrics
-    runs-on: ubuntu-latest
     permissions:
       contents: write
+    name: People metrics
+    runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: manankumar7403
           filename: github-metrics-people.svg
           base: ""
           plugin_people: yes
           plugin_people_types: followers
           plugin_people_limit: 12
-          plugin_people_size: 28
+          plugin_people_size: 20 # Reduced from 28
           plugin_people_identicons: no
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           retries: 3
           retry_wait: 10
+          config_font_size: 12 # Added to reduce font size
+          config_output: svg, width=800, height=500 # Constrained dimensions
+          optimize: svg
+          output_action: commit
+          committer_name: manankumar7403
+          committer_email: manantemp1404@gmail.com
+          commit_message: "Update github-metrics-people.svg"
