@@ -54,33 +54,33 @@
 
 #### 📌 General Stats
 <p align="center">
-  <img src="github-metrics-base.svg" alt="Base Metrics" width="95%">
+  <img src="github-metrics-base.svg" alt="Base Metrics" width="70%">
 </p>
 
 #### 📊 Languages
 <p align="center">
-  <img src="github-metrics-languages.svg" alt="Language Metrics" width="95%">
+  <img src="github-metrics-languages.svg" alt="Language Metrics" width="70%">
 </p>
 
 #### 📈 3D Contribution Graph
 <p align="center">
-  <a href="https://github.com/manankumar7403"><img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="95%"></a>
+  <a href="https://github.com/manankumar7403"><img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="70%"></a>
 </p>
 
 #### 📈 Recent Activity
 <p align="center">
-  <img src="github-metrics-activity.svg" alt="Activity Metrics" width="95%">
+  <img src="github-metrics-activity.svg" alt="Activity Metrics" width="70%">
 </p>
 
 #### 📬 Issues & PRs
 <p align="center">
-  <img src="github-metrics-followup.svg" alt="Follow-up Metrics" width="95%">
+  <img src="github-metrics-followup.svg" alt="Follow-up Metrics" width="70%">
 </p>
 
 <!-- Uncomment when People metrics works
 #### 👥 People
 <p align="center">
-  <img src="github-metrics-people.svg" alt="People Metrics" width="95%">
+  <img src="github-metrics-people.svg" alt="People Metrics" width="70%">
 </p>
 -->
 
