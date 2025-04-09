@@ -13,10 +13,10 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently diving deep into **LLMs** and **Retrieval-Augmented Generation (RAG)**.
+- 🌱 I'm currently diving deep into **LLMs** and **Retrieval-Augmented Generation (RAG)**.
 - 💬 Ask me about **PyTorch, Machine Learning, Deep Learning, NLP**.
 - ⚡ Fun fact: I brew coffee and neural networks with equal passion!
-- 🚀 Mission: Cracking AI’s toughest puzzles—one model at a time!
+- 🚀 Mission: Cracking AI's toughest puzzles—one model at a time!
 
 ---
 
@@ -51,9 +51,48 @@
 ---
 
 ### 📊 My GitHub Metrics
-<p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="400">
-</p>
+
+<details>
+  <summary>📌 General Stats</summary>
+  <p align="center">
+    <img src="github-metrics-base.svg" alt="Base Metrics" width="400">
+  </p>
+</details>
+
+<details open>
+  <summary>📊 Languages</summary>
+  <p align="center">
+    <img src="github-metrics-languages.svg" alt="Language Metrics" width="400">
+  </p>
+</details>
+
+<details>
+  <summary>📅 ISO Calendar</summary>
+  <p align="center">
+    <img src="github-metrics-isocalendar.svg" alt="Isocalendar Metrics" width="400">
+  </p>
+</details>
+
+<details>
+  <summary>📈 Recent Activity</summary>
+  <p align="center">
+    <img src="github-metrics-activity.svg" alt="Activity Metrics" width="400">
+  </p>
+</details>
+
+<details>
+  <summary>📬 Issues & PRs</summary>
+  <p align="center">
+    <img src="github-metrics-followup.svg" alt="Follow-up Metrics" width="400">
+  </p>
+</details>
+
+<details>
+  <summary>👥 People</summary>
+  <p align="center">
+    <img src="github-metrics-people.svg" alt="People Metrics" width="400">
+  </p>
+</details>
 
 ---
 
