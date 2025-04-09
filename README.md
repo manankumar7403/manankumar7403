@@ -52,47 +52,37 @@
 
 ### 📊 My GitHub Metrics
 
-<details>
-  <summary>📌 General Stats</summary>
-  <p align="center">
-    <img src="github-metrics-base.svg" alt="Base Metrics" width="400">
-  </p>
-</details>
+#### 📌 General Stats
+<p align="center">
+  <img src="github-metrics-base.svg" alt="Base Metrics" width="100%">
+</p>
 
-<details open>
-  <summary>📊 Languages</summary>
-  <p align="center">
-    <img src="github-metrics-languages.svg" alt="Language Metrics" width="400">
-  </p>
-</details>
+#### 📊 Languages
+<p align="center">
+  <img src="github-metrics-languages.svg" alt="Language Metrics" width="100%">
+</p>
 
-<details>
-  <summary>📅 ISO Calendar</summary>
-  <p align="center">
-    <img src="github-metrics-isocalendar.svg" alt="Isocalendar Metrics" width="400">
-  </p>
-</details>
+#### 📅 ISO Calendar
+<p align="center">
+  <img src="github-metrics-isocalendar.svg" alt="Isocalendar Metrics" width="100%">
+</p>
 
-<details>
-  <summary>📈 Recent Activity</summary>
-  <p align="center">
-    <img src="github-metrics-activity.svg" alt="Activity Metrics" width="400">
-  </p>
-</details>
+#### 📈 Recent Activity
+<p align="center">
+  <img src="github-metrics-activity.svg" alt="Activity Metrics" width="100%">
+</p>
 
-<details>
-  <summary>📬 Issues & PRs</summary>
-  <p align="center">
-    <img src="github-metrics-followup.svg" alt="Follow-up Metrics" width="400">
-  </p>
-</details>
+#### 📬 Issues & PRs
+<p align="center">
+  <img src="github-metrics-followup.svg" alt="Follow-up Metrics" width="100%">
+</p>
 
-<details>
-  <summary>👥 People</summary>
-  <p align="center">
-    <img src="github-metrics-people.svg" alt="People Metrics" width="400">
-  </p>
-</details>
+<!-- Uncomment when People metrics works
+#### 👥 People
+<p align="center">
+  <img src="github-metrics-people.svg" alt="People Metrics" width="100%">
+</p>
+-->
 
 ---
 
