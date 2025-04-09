@@ -58,17 +58,7 @@
 ---
 
 ### 🏆 Achievements & Stats
-<!-- These can be dynamically updated via metrics, so we remove the static versions -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manankumar7403&show_icons=true&locale=en&layout=compact" alt="manankumar7403" /></p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=manankumar7403&show_icons=true&locale=en" alt="manankumar7403" /></p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/manankumar14?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manankumar7403&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manankumar7403" alt="manankumar7403" /></a> </p>
 
 ---
 
