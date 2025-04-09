@@ -50,12 +50,12 @@
 
 ---
 
-#### 📊 GitHub Stats & Languages Overview
+### 📊 GitHub Stats & Languages Overview
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manankumar7403&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manankumar7403&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%"/> </p>
 
 ---
 
-#### 📊 LeetCode Stats & Badges
+### 📊 LeetCode Stats & Badges
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/manankumar14?ext=contest" alt="LeetCode Stats" width="48%"/>
 </p>
@@ -69,19 +69,22 @@
 
 ---
 
-#### 📈 3D Contribution Graph
+### 📈 3D Contribution Graph
 <p align="center">
   <a href="https://github.com/manankumar7403"><img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="600"></a>
 </p>
 
 ---
 
+<!---
 ### 🏆 Achievements & Stats
 <p align="center">
   <img src="metrics.plugin.achievements.compact.svg" alt="GitHub Achievements" width="70%"/>
 </p>
 
 ---
+
+---->
 
 ### 🌟 Connect with Me
 <p align="center">
