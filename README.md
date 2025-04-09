@@ -50,29 +50,8 @@
 
 ---
 
-### 📊 My GitHub Metrics
-
-<table align="center">
-  <tr>
-    <td><strong>📌 General Stats</strong></td>
-    <td><strong>📌 Top Languages</strong></td>
-  </tr>
-  <tr>
-    <td><img src="github-metrics-base.svg" alt="Base Metrics" width="350"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manankumar7403" alt="Top Langs" width="350"></td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td><strong>📈 Recent Activity</strong></td>
-    <td><strong>📬 Issues & PRs</strong></td>
-  </tr>
-  <tr>
-    <td><img src="github-metrics-activity.svg" alt="Activity Metrics" width="350"></td>
-    <td><img src="github-metrics-followup.svg" alt="Follow-up Metrics" width="350"></td>
-  </tr>
-</table>
+#### 📊 GitHub Stats & Languages Overview
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manankumar7403&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manankumar7403&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%"/> </p>
 
 ---
 
