@@ -20,7 +20,7 @@
 
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"
      alt="PizzaNinjas coding gif"
-     width="220" height="170" align="right"
+     width="260" height="160" align="right"
      style="margin-right: -200px; margin-top: -60px;" />
 
 ### 🚀 About Me
