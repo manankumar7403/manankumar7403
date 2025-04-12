@@ -18,17 +18,15 @@
 
 ---
 
-<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"
-     alt="PizzaNinjas coding gif"
-     width="260" height="150" align="right"
-     style="margin-left: 20px; margin-top: 60px;" />
+<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" align="right" width="260" height="150" alt="PizzaNinjas coding gif" style="margin-left: 20px; margin-top: 20px;" />
 
 ### 🚀 About Me
-- 🌱 I'm currently diving deep into **LLMs** and **Retrieval-Augmented Generation (RAG)**.
-- 💬 Ask me about **PyTorch, Machine Learning, Deep Learning, NLP**.
-- ⚡ Fun fact: I brew coffee and neural networks with equal passion!
-- 🚀 Mission: Cracking AI's toughest puzzles—one model at a time!
 
+- 🌱 I'm currently diving deep into **LLMs** and **Retrieval-Augmented Generation (RAG)**.  
+- 💬 Ask me about **PyTorch, Machine Learning, Deep Learning, NLP**.  
+- ⚡ Fun fact: I brew coffee and neural networks with equal passion!  
+- 🚀 Mission: Cracking AI's toughest puzzles—one model at a time!
+  
 
 ---
 
