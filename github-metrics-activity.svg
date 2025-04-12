@@ -1761,7 +1761,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      Pushed 1 commit in <span class="repo">manankumar7403/manankumar7403</span>
+                      Pushed 1 commit in <span class="repo">manankumar7403/Computer-Vision</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1770,8 +1770,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#2bab5e1</div>
-                        <div class="message">Update README.md</div>
+                        <div class="sha">#85e1daf</div>
+                        <div class="message">Remove .idea folder from repository tracking</div>
                       </div>
                     
                   </div>
@@ -1781,7 +1781,7 @@
                 
                 
                   <div class="timestamp">
-                    10 Apr 2025, 18:52:00
+                    11 Apr 2025, 16:38:10
                   </div>
                 
               </section>
@@ -1801,7 +1801,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      Pushed 1 commit in <span class="repo">manankumar7403/manankumar7403</span>
+                      Pushed 1 commit in <span class="repo">manankumar7403/Computer-Vision</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1810,8 +1810,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#76bc37a</div>
-                        <div class="message">Create metrics.yml</div>
+                        <div class="sha">#e9d3212</div>
+                        <div class="message">Update .gitignore</div>
                       </div>
                     
                   </div>
@@ -1821,7 +1821,7 @@
                 
                 
                   <div class="timestamp">
-                    9 Apr 2025, 11:11:00
+                    11 Apr 2025, 16:35:38
                   </div>
                 
               </section>
@@ -1841,7 +1841,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      Pushed 1 commit in <span class="repo">manankumar7403/manankumar7403</span>
+                      Pushed 1 commit in <span class="repo">manankumar7403/Data-Structures-and-Algorithms</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1850,8 +1850,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#1a00374</div>
-                        <div class="message">Delete metrics.plugin.isocalendar.fullyear.svg</div>
+                        <div class="sha">#107f436</div>
+                        <div class="message">Add .gitignore</div>
                       </div>
                     
                   </div>
@@ -1861,7 +1861,7 @@
                 
                 
                   <div class="timestamp">
-                    9 Apr 2025, 11:09:24
+                    11 Apr 2025, 16:33:35
                   </div>
                 
               </section>
