@@ -21,7 +21,7 @@
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"
      alt="PizzaNinjas coding gif"
      width="260" height="150" align="right"
-     style="margin-right: -200px; margin-top: -60px;" />
+     style="margin-left: 20px; margin-top: 60px;" />
 
 ### 🚀 About Me
 - 🌱 I'm currently diving deep into **LLMs** and **Retrieval-Augmented Generation (RAG)**.
