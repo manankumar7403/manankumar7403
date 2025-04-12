@@ -18,7 +18,8 @@
 
 ---
 
-<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" align="right" width="260" height="150" alt="PizzaNinjas coding gif" style="margin-left: 20px; margin-top: 20px;" />
+
+<img align="right" width="250" height="150" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
 
 ### 🚀 About Me
 
