@@ -106,6 +106,10 @@
   <a href="mailto:manantemp1404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+
+![GitHub Profile Footer](./profile-footer2.svg)
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/mP8GermRyOFWV8PQeq/giphy.gif" alt="buh-bye" width="200"/>
 </p>
+---->
