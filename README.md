@@ -11,6 +11,7 @@
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="PizzaNinjas coding gif" width="300"/>
 </p>
 ------->
+
 <p align="center">
   <img src="about_animation.gif" alt="About Animation">
 </p>
