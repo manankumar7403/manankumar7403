@@ -64,8 +64,8 @@
 
 ### 📊 GitHub Stats & Languages Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manankumar7403&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" width = "55%"/>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manankumar7403&langs_count=8&layout=compact&theme=react&hide_border=true&exclude_repo=github-readme-stats" width = "42%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manankumar7403&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="manankumar7403's GitHub Stats" width = "55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manankumar7403&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="manankumar7403's GitHub Stats" width = "42%"/>
 </p>
   
 ---
