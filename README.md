@@ -67,6 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manankumar7403&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="manankumar7403's GitHub Stats" width = "55%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manankumar7403&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="manankumar7403's GitHub Stats" width = "42%"/>
 </p>
+
   
 ---
 
