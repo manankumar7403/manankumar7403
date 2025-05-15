@@ -22,7 +22,7 @@
 
 <img align="right" width="240" height="150" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
 
-### 🚀 About Me
+### About Me
 
 - 🌱 I'm currently diving deep into **LLMs** and **Retrieval-Augmented Generation (RAG)**.  
 - 💬 Ask me about **PyTorch, Machine Learning, Deep Learning, NLP**.  
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.brandfetch.io/idVoqFQ-78/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="aws" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -62,7 +62,7 @@
 
 ---
 
-### 📊 GitHub Stats & Languages Overview
+### GitHub Stats & Languages Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manankumar7403&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="manankumar7403's GitHub Stats" width = "55%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manankumar7403&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="manankumar7403's GitHub Stats" width = "42%"/>
@@ -70,7 +70,7 @@
   
 ---
 
-### 📊 LeetCode Stats & Badges
+### LeetCode Stats & Badges
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/manankumar14?ext=contest" alt="LeetCode Stats" width="48%"/>
 </p>
@@ -84,7 +84,7 @@
 
 ---
 
-### 📈 3D Contribution Graph
+### 3D Contribution Graph
 <p align="center">
   <a href="https://github.com/manankumar7403"><img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="600"></a>
 </p>
@@ -92,7 +92,7 @@
 ---
 
 <!---
-### 🏆 Achievements & Stats
+### Achievements & Stats
 <p align="center">
   <img src="metrics.plugin.achievements.compact.svg" alt="GitHub Achievements" width="70%"/>
 </p>
@@ -101,7 +101,7 @@
 
 ---->
 
-### 🌟 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="mailto:manankumar1404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
