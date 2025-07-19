@@ -72,7 +72,7 @@
 
 ### LeetCode Stats & Badges
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/manankumar14?ext=contest" alt="LeetCode Stats" width="48%"/>
+  <img src="https://leetcard.jacoblin.cool/manankumar7403?ext=contest" alt="LeetCode Stats" width="48%"/>
 </p>
 
 <p align="center">
