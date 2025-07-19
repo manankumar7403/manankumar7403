@@ -34,6 +34,7 @@
 
 ### Languages and Tools
 <p align="center">
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/atulkamble/Azure-Logo/main/azure-transparent.svg" alt="Microsoft Azure" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.brandfetch.io/idVoqFQ-78/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="aws" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
