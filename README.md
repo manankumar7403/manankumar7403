@@ -34,32 +34,33 @@
 
 ### Languages and Tools
 <p align="center">
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/atulkamble/Azure-Logo/main/azure-transparent.svg" alt="Microsoft Azure" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.brandfetch.io/idVoqFQ-78/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.brandfetch.io/idW3VhiylC/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.brandfetch.io/idwCOBA3Do/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="numpy" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.databricks.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21~bgwhite.svg" alt="Databricks" width="100" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.postman.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/></a>
-  <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://raw.githubusercontent.com/run-llama/logos/main/LlamaSquareBlack.svg" alt="llamaindex" width="40" height="40"/></a>
-  <a href="https://lightning.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" alt="lightning" width="40" height="40"/></a>
-  <a href="https://ollama.com/" target="_blank"><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="ollama" width="40" height="40"/></a>
-  <a href="https://crewai.com/" target="_blank"><img src="https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="crewai" width="40" height="40"/></a>
-  <a href="https://www.firecrawl.dev/" target="_blank"><img src="https://www.firecrawl.dev/favicon.ico" alt="firecrawl" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/atulkamble/Azure-Logo/main/azure-transparent.svg" align="left" alt="Microsoft Azure" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.brandfetch.io/idVoqFQ-78/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" align="left" alt="aws" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="left" alt="python" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" align="left" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" align="left" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" align="left" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.brandfetch.io/idW3VhiylC/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" align="left" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.brandfetch.io/idwCOBA3Do/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" align="left" alt="numpy" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" align="left" alt="pandas" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" align="left" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" align="left" alt="opencv" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" align="left" alt="docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" align="left" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://www.databricks.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21~bgwhite.svg" align="left" alt="Databricks" width="100" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" width="40" height="40"/></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" align="left" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="left" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" align="left" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" align="left" alt="huggingface" width="40" height="40"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" align="left" alt="langchain" width="40" height="40"/></a>
+  <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://raw.githubusercontent.com/run-llama/logos/main/LlamaSquareBlack.svg" align="left" alt="llamaindex" width="40" height="40"/></a>
+  <a href="https://lightning.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" align="left" alt="lightning" width="40" height="40"/></a>
+  <a href="https://ollama.com/" target="_blank"><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" align="left" alt="ollama" width="40" height="40"/></a>
+  <a href="https://crewai.com/" target="_blank"><img src="https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" align="left" alt="crewai" width="40" height="40"/></a>
+  <a href="https://www.firecrawl.dev/" target="_blank"><img src="https://www.firecrawl.dev/favicon.ico" align="left" alt="firecrawl" width="40" height="40"/></a>
 </p>
+<br clear="left"/>
 
 ---
 
