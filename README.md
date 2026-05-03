@@ -27,7 +27,7 @@
 - 🌱 I'm currently diving deep into **LLMs** and **Retrieval-Augmented Generation (RAG)**.  
 - 💬 Ask me about **PyTorch, Machine Learning, Deep Learning, NLP**.  
 - ⚡ Fun fact: I brew coffee and neural networks with equal passion!  
-- 🚀 Mission: Cracking AI's toughest puzzles—one model at a time!
+- 🚀 Mission: To innovate stuff that could be used in real life applications!
   
 
 ---
